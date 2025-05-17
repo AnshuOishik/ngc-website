@@ -1,6 +1,6 @@
-# NGC: Normalized Genome Compressors
+# NGC: Normalized Genome Compressor
 
-**NGC** is a visual comparison platform for DNA compression algorithms. It enables users to evaluate and compare general-purpose compressors and proposed genome compressors using interactive charts, scatterplots, and downloadable visual data.
+**NGC** is a visual comparison platform for DNA compression algorithms. It enables users to evaluate and compare general-purpose compressors performance on the original genome sequence and the normalized genome sequenceand using interactive bar charts, scatterplots, and downloadable visual data.
 
 ---
 
